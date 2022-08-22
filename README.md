@@ -1,4 +1,4 @@
-#  Método Computacional de Análise de Sentimento por meio deAprendizado de Máquina
+#  Método Computacional de Análise de Sentimento por meio de Aprendizado de Máquina
 
 
 ## Código fonte de Classificador Naive Bayes usando a Biblioteca TextBlob
